@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cadastro de Comerciantes | ZeroConta</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <main>
+    <h1>Cadastro de Comerciantes - ZeroConta</h1>
+    <form id="formComerciante">
+      <input type="text" name="nome" placeholder="Nome completo" required />
+      <input type="text" name="telefone" placeholder="Telefone com DDD" required />
+      <input type="text" name="cpf_cnpj" placeholder="CPF ou CNPJ" required />
+      <input type="email" name="email" placeholder="E-mail" required />
+      <input type="text" name="endereco" placeholder="Endereço completo" required />
+      <input type="text" name="cep" placeholder="CEP" required />
+      <input type="text" name="estado" placeholder="Estado (sigla)" required />
+      <input type="text" name="cidade" placeholder="Cidade" required />
+      <button type="submit">Cadastrar comerciante</button>
+    </form>
+    <p id="mensagemRetorno"></p>
+  </main>
+  <script src="form.js"></script>
+</body>
+</html>
