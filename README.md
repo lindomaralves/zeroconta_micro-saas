@@ -1,66 +1,60 @@
-# 💸 ZeroConta — Cobranças inteligentes para quem vende com autonomia
+# ZeroConta
 
-**ZeroConta** é o Micro‑SaaS feito sob medida para comerciantes que querem **vender mais** e perder **zero tempo** com burocracia. Em minutos você cria sua conta, cadastra produtos e começa a mandar links de pagamento por PIX ou cartão — tudo automático, sem mensalidades ocultas e com relatórios que falam a sua língua.
-
----
-
-## ✨ Por que escolher o ZeroConta?
-
-| Problema comum                                      | Solução ZeroConta                                     |
-| --------------------------------------------------- | ------------------------------------------------------ |
-| Clientes esquecem de pagar                          | 🔔 Notificações automáticas a cada 15 dias até quitar  |
-| Cobrança manual toma horas                          | ⚡ Cobranças geradas em segundos, prontas para enviar  |
-| Planilhas e anotações espalhadas                    | 📊 Painel único com visão de clientes, vendas e status |
-| Difícil aceitar vários meios de pagamento           | 💳 Suporte nativo a PIX, cartão de crédito e débito    |
-| Juros? Múltiplas regrinhas de atraso?               | ⏱️ Acréscimo configurável: de R$ 0,50 a R$ 100,00      |
-| Quer motivar indicação de clientes                  | 🤝 Indique‑e‑ganhe: 6 meses sem acréscimo p/ indicados |
+**ZeroConta** é um Micro‑SaaS exclusivo para **comerciantes**, criado para simplificar e automatizar todo o processo de cobrança digital — do envio do link de pagamento (PIX ou cartão) até o recebimento e acompanhamento de pagamentos.
 
 ---
 
-## 🚀 Principais recursos
+## ✅ O que o ZeroConta oferece
 
-- **Cadastro express**: em ~2 min seu comércio está no ar  
-- **Painel do comerciante**: veja quem pagou, quem deve e o que vende mais  
-- **Página do cliente**: link bonito, botão de pagar e comprovante instantâneo  
-- **Estoque na nuvem**: QR Code, código de barras e SKU sem confusão  
-- **Relatórios de inadimplência**: números que você entende, sem Excel gigante  
-- **Segurança a nível bancário**: dados trafegam criptografados de ponta a ponta  
+- 📥 Cadastro rápido de comerciantes com dados essenciais  
+- 🧾 Criação automática de cobranças personalizadas  
+- 🔁 Envio recorrente de notificações para clientes a cada 15 dias até o pagamento  
+- 📲 Envio automático de cobranças por SMS, e‑mail e Telegram  
+- 💳 Suporte a diversas formas de pagamento:  
+  - PIX  
+  - Cartão de crédito  
+  - Cartão de débito  
+- ⏱️ Acréscimo automático por atraso configurável entre R$ 0,50 e R$ 100,00  
+- 🛒 Cadastro de produtos com imagens, SKU, QR Code / código de barras  
+- 🧑‍💼 Painel do comerciante com status de cobranças, clientes e estoque  
+- 👁️ Painel do cliente com detalhes da cobrança + botão de pagamento  
+- 👑 Painel administrativo do criador com controle total do sistema  
+- 🤝 Programa de indicação: cliente que indica ganha 6 meses sem acréscimos  
+- 📈 Relatórios completos sobre vendas, inadimplência e desempenho  
 
 ---
 
 ## 🎯 Público‑alvo
 
-- Comerciantes físicos e online  
-- Vendedores informais e ambulantes  
-- MEIs e prestadores de serviços  
-- Lojistas que querem automatizar cobranças e focusar em vender
+Comerciantes, vendedores informais, MEIs, prestadores de serviço e lojistas que desejam **automatizar cobranças** e **receber pagamentos** com total controle.
 
 ---
 
-## ⚡ Como começar agora
+## 🌐 Acesso rápido
 
-1. **Preencha seu cadastro** em `https://seu-dominio.vercel.app`  
-2. Acesse o painel e cadastre seus produtos  
-3. Compartilhe o link de pagamento com seus clientes  
-4. Receba, acompanhe e repita. Simples assim!  
-
-> **ZeroConta** cuida do resto — e você foca em vender.
-
----
-
-## 🛡️ Segurança e conformidade
-
-- Dados pessoais armazenados com criptografia forte  
-- Processamento de pagamento em provedores certificados PCI‑DSS  
-- Backups automáticos e logs imutáveis para auditoria  
+- **Página pública do comerciante**  
+  `https://zeroconta-micro-saas-h9wo.vercel.app`  
+- **Área do cliente**  
+  Link enviado automaticamente após cadastro  
+- **Painel do comerciante e administrador**  
+  Acesso mediante login seguro  
 
 ---
 
-## 📞 Suporte
+## 🔒 Segurança
 
-Ficou com dúvida? Precisa de ajuda?  
-Entre em contato em **suporte@zeroconta.com.br** ou abra um ticket no painel.
+- Dados de comerciantes e clientes tratados com responsabilidade  
+- Cobranças autenticadas e registradas para rastreabilidade total  
 
 ---
 
-> **ZeroConta®** — Cobranças inteligentes, lucros reais.
+## 🔗 Integrações e suporte
+
+Webhook oficial para automações:  
+`https://hook.us2.make.com/mtgwnqhce6yms9sozm1697j4nc93uf5k`  
+
+📞 Suporte:  
+- **WhatsApp Business:** +55 (88) 9 9626‑2605  
+- **E‑mail:** melhormais12@gmail.com  
+
+**ZeroConta®** — cobranças inteligentes para quem vende com autonomia.
